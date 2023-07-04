@@ -9,3 +9,4 @@ geopy
 pgeocode
 pretty-html-table
 pyshorteners
+gspread
