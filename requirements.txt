@@ -11,3 +11,4 @@ pretty-html-table
 pyshorteners
 gspread
 openpyxl
+gspread-dataframe
